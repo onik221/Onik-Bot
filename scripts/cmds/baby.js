@@ -158,7 +158,7 @@ module.exports.onChat = async ({ api, event }) => {
 
        const randomMessage = [
           "babu khuda lagse🥺",
-          "Hop beda😾,Boss বল boss😼",  
+          "Onik Boss Bolesen Je , Group R Sob Meye Gusol Kore Nah 🫤🤣",  
           "আমাকে ডাকলে ,আমি কিন্তূ কিস করে দেবো😘 ",  
           "হুদাই অনলাইনে আছি_🥺🐸 কেও নক দিয়ে বলে না ভালোবাসি..😑",
           "Oii…..🙋‍♀️ তোমার ব‍্যাংক থেকে আমাকে..🙃 I Love You লোন দিবা -!😻 আমি 2% সুদ সহ I Love You 2ফেরত দিবো “–! 🙈",
